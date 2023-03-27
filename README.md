@@ -9,7 +9,6 @@
 ## Обратите внимание / Note
 *  Требуется подключение к интернету / Internet connection required
 * Если программа не запускается, проверьте наличие файла *localization/locale.toml* / If program doesn't start, check the file *localization/locale.toml*
-    * При его отсутствии, запустите файл [*etc/recover.bat*](etc/recover.bat) (он восстановит файл локализации) / If file is missing launch [*etc/recover.bat*](etc/recover.bat) (it will recover the locale file)
     * Если же он есть, а программа не запускается, свяжитесь с автором / If file exists but program doesn't launch contact author
 
 ***
