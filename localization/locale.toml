@@ -1,1 +1,17 @@
-404: Not Found
+['russian']
+maintxt = 'КОНВЕРТЕР В РУБЛИ'
+info = 'Впишите ниже вашу валюту и укажите сумму для конвертирования (обязательно все с большой буквы)'
+btn = 'КОНВЕРТИРОВАТЬ'
+success = 'Успех!'
+rubles = 'рублей'
+currencyerr = 'Мы не нашли такой валюты :('
+amounterr = 'Введите корректную сумму'
+
+['english']
+maintxt = 'RUBLE CONVERTER'
+info = 'Enter your currency here and its amount (strictly capitalized)'
+btn = 'CONVERT'
+success = 'Done!'
+rubles = 'rubles'
+currencyerr = "We didn't find this currency :("
+amounterr = 'Enter correct amount'
