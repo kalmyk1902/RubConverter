@@ -21,4 +21,4 @@
 ***
 ## © Copyright 2023 Kalmyk1902
 ## Redistributing under MIT licence
-## Распростроняется по лицензии MIT
+## Распрострaняется по лицензии MIT
